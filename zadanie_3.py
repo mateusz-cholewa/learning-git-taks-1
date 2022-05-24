@@ -20,3 +20,7 @@ print(f"W sumie kupuję {suma} produktów")
 print("To jest commit numer 1")
 
 print("To jest commit 2")
+
+print("Pozdrawiam mojego mentora Marcina :)")
+
+print("Pozdrawiam mojego mentora Marcina drugi raz bo za pierwszym razem dodalem do złego branchu :)")
