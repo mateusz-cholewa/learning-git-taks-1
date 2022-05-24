@@ -18,3 +18,5 @@ for value in lista_zakupow:
 print(f"W sumie kupuję {suma} produktów")
 
 print("To jest commit numer 1")
+
+print("To jest commit 2")
